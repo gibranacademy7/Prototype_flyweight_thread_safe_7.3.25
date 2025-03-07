@@ -1,4 +1,6 @@
 """
+QUESTION 2:
+
 A chat application requires the addition of emojis, where each emoji holds an image in the image field.
 
 Class Definitions:
